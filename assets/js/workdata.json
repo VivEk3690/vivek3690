@@ -1,0 +1,40 @@
+{
+  "workItems": [
+    {
+      "title": "FansLive App",
+      "category": "App",
+      "image": "assets/img/work/fanslive.png",
+      "link": "https://www.fanslive.co.uk/"
+    },
+    {
+      "title": "Weather To Wear",
+      "category": "App",
+      "image": "assets/img/work/weather2wear.png",
+      "link": "https://github.com/VivEk3690/Weather-To-Wear-IOS"
+    },
+    {
+      "title": "BMI Calculator",
+      "category": "App",
+      "image": "assets/img/work/bmi.png",
+      "link": "https://github.com/VivEk3690/IOSLearning/tree/mainBMI%20Calculator"
+    },
+    {
+      "title": "Xylophone",
+      "category": "App",
+      "image": "assets/img/work/xylophone.png",
+      "link": "https://github.com/VivEk3690/IOS-Learning/tree/main/Xylophone"
+    },
+    {
+      "title": "Quizzler",
+      "category": "App",
+      "image": "assets/img/work/quiz.png",
+      "link": "https://github.com/VivEk3690/IOS-Learning/tree/main/Quizzler"
+    },
+    {
+      "title": "FansLive App",
+      "category": "App",
+      "image": "assets/img/work/dsir.png",
+      "link": "https://appadvice.com/app/dsir-delivery/1507129006"
+    }
+  ]
+}
